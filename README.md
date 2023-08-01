@@ -16,28 +16,17 @@
 
 ## 프로젝트 기술 스택
 ```
-JavaScript
 TypeScript
-React
-Apollo
-NEXT
-RECOIL
 Nest.js
 node.js
 redis
 Graphql
-TypeORM
 MYSQL
 Github
 Docker
-Notion
-Slack
-AWS
-Kubernetes
-GCP
 ```
 
-## 1. 배정받은 API 목록
+## 1. 구축 API 목록
 ```
 signupUser -> 회원가입
 fetchUser  -> 내정보 조회 
